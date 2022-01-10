@@ -12,7 +12,7 @@ Enter second number : 2
 Enter third number : 3
 average of numbers is  2.0
 
-Question 1
+Question 2
 to find the tax payable
 
 Enter your Gross Income in nearest integer :   300000
