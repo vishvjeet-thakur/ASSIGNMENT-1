@@ -111,6 +111,6 @@ colours=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 print("2nd task  to  remove  Black and Pink  and change it to purple :  ")
 
 #in one line
-colours[3], colours[4] = "purple","purple"
+colours[3:4] = ["purple"]
 
 print(colours)
