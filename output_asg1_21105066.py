@@ -44,4 +44,4 @@ given list  ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
  1st task to remove 4th element 
 ['Red', 'Green', 'White', 'Pink', 'Yellow']
 2nd task  to  remove  Black and Pink  and change it to purple :  
-['Red', 'Green', 'White', 'purple', 'purple', 'Yellow']
+['Red', 'Green', 'White', 'purple', 'Yellow']
