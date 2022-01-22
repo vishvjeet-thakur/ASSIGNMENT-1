@@ -29,7 +29,7 @@ print("\n d. String after replacement of '%s' with '%s' : "%(new_str,"object ori
 
 # e. Find index of substring “a” in the given input string.
 
-print("\n d. Index of 'a' in the given input string :",str.index("a"))
+print("\n e. Index of 'a' in the given input string :",str.index("a"))
 
 # f. Remove the white spaces from the given input string.
 
