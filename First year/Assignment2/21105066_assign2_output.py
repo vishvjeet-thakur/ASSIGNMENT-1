@@ -1,7 +1,4 @@
-Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 
-========================================================== RESTART: C:\Users\ankit\projects\helloworld\assignment2\assign_2.py =========================================================
                                                           #ASSIGNMENT 2
 
 QUESTION 1 
@@ -16,7 +13,7 @@ QUESTION 1
 
  d. String after replacement of 'a case sensitive' with 'object oriented' :  Python is object oriented language
 
- d. Index of 'a' in the given input string : 10
+ e. Index of 'a' in the given input string : 10
 
  f. After removing white spaces from the input string :  Pythonisacasesensitivelanguage
 
@@ -48,7 +45,7 @@ Greatest of three numbers you entered is :  7
 
 QUESTION 5
 
-Enter a string to find if it contains 'word' or not  :  my name is this
+Enter a string to find if it contains 'name' or not  :  my name is this
 Yes
 
 QUESTION 6
