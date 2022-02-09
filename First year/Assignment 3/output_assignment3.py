@@ -1,7 +1,4 @@
-Python 3.10.1 (tags/v3.10.1:2cd268a, Dec  6 2021, 19:10:37) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
 
-=== RESTART: C:\Users\ankit\projects\helloworld\assignment 3\Assignment_3.py ===
                                                       ASSIGNMENT 3 
 Question 1 :  To count the number of words in a string or characters . 
 
@@ -102,7 +99,7 @@ Enter  SID  :21105067
 
 Do you want to store more student data (Y/N) : 
 y
-Enter name : sourabh 21105069
+Enter name : sourabh 
 Enter  SID  :21105067
 
 Do you want to store more student data (Y/N) : 
@@ -110,15 +107,15 @@ n
 
 Student data in the order as entered by the user : 
 21105066  :  vishvjeet Thakur
-21105067  :  sourabh 21105069
+21105067  :  sourabh 
 
 Sorted dictionary according to student names :
-21105067       :sourabh 21105069
+21105067       :sourabh 
 21105066       :vishvjeet Thakur
 
 Sorted dictionary according to student sids :
 21105066  :  vishvjeet Thakur
-21105067  :  sourabh 21105069
+21105067  :  sourabh
 
 Enter the SID whose name you want to search :21105070
 SID 21105070 is not present in our data.
